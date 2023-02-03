@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/break_infinite_loops.ipynb
+/for_loops.ipynb
+/if_else_statements.ipynb
+/import.ipynb
+/input_output_functions.ipynb
+/keywords_and_identifiers.ipynb
+/operators.ipynb
+/practical_exercise1.ipynb
+/practical_exercise1_solution.ipynb
+/practical_exercise2.ipynb
+/practical_exercise2_solution.ipynb
+/statements_and_comments.ipynb
+/variables_data_types_type_conversion.ipynb
+/while_loops.ipynb
+/arguments_scopes.ipynb
+/break_infinite_loops.ipynb
+/dictionaries.ipynb
+/functions.ipynb
+/lists_tuples.ipynb
+/modules.ipynb
+/practical_exercise3_solution.ipynb
+/practical_exercise4_solution.ipynb
